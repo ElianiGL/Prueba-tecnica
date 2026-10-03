@@ -1,0 +1,1084 @@
+[
+ {
+  "id": "P01",
+  "categoria": "vacaciones",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Ya cumplí un año en la empresa, ¿cuántos días de vacaciones me tocan?",
+  "articulos_esperados": [
+   "LFT:76"
+  ],
+  "puntos_clave": [
+   "Al cumplir un año corresponden por lo menos 12 días laborables de vacaciones pagadas"
+  ],
+  "respuesta_referencia": "Tienes derecho a por lo menos 12 días laborables de vacaciones pagadas.",
+  "anclas": {
+   "LFT:76": "doce dias laborables"
+  }
+ },
+ {
+  "id": "P02",
+  "categoria": "vacaciones",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Llevo 4 años trabajando aquí, ¿cuántos días de vacaciones tengo este año?",
+  "articulos_esperados": [
+   "LFT:76"
+  ],
+  "puntos_clave": [
+   "Las vacaciones aumentan dos días laborables por cada año subsecuente hasta llegar a 20",
+   "Al cumplir 4 años corresponden 18 días laborables (12, 14, 16, 18)"
+  ],
+  "respuesta_referencia": "Con 4 años de servicio te corresponden 18 días laborables: 12 el primer año y dos más por cada año siguiente.",
+  "anclas": {
+   "LFT:76": "hasta llegar a veinte"
+  }
+ },
+ {
+  "id": "P03",
+  "categoria": "vacaciones",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Mi jefe me ofrece pagarme las vacaciones en lugar de que las tome, ¿se puede?",
+  "articulos_esperados": [
+   "LFT:79"
+  ],
+  "puntos_clave": [
+   "Las vacaciones no pueden compensarse con una remuneración (no se pueden cambiar por dinero)",
+   "Solo si la relación termina antes del año se paga la parte proporcional"
+  ],
+  "respuesta_referencia": "No. La ley prohíbe compensar las vacaciones con dinero; solo se pagan proporcionalmente si la relación de trabajo termina.",
+  "anclas": {
+   "LFT:79": "no podran compensarse con una remuneracion"
+  }
+ },
+ {
+  "id": "P04",
+  "categoria": "vacaciones",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿Qué es la prima vacacional y cuánto debe ser como mínimo?",
+  "articulos_esperados": [
+   "LFT:80"
+  ],
+  "puntos_clave": [
+   "La prima vacacional es de por lo menos 25% sobre los salarios del periodo de vacaciones"
+  ],
+  "respuesta_referencia": "Es un pago adicional de al menos el 25% del salario que te corresponde durante tus vacaciones.",
+  "anclas": {
+   "LFT:80": "veinticinco por ciento"
+  }
+ },
+ {
+  "id": "P05",
+  "categoria": "vacaciones",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Mi jefe quiere que tome mis vacaciones de un día en un día, ¿puede obligarme?",
+  "articulos_esperados": [
+   "LFT:78"
+  ],
+  "puntos_clave": [
+   "El trabajador debe disfrutar en forma continua por lo menos 12 días",
+   "El resto puede distribuirse como lo decida el trabajador"
+  ],
+  "respuesta_referencia": "No: al menos 12 días deben ser continuos; el resto lo puedes repartir como tú lo decidas.",
+  "anclas": {
+   "LFT:78": "forma continua"
+  }
+ },
+ {
+  "id": "P06",
+  "categoria": "vacaciones",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿En qué plazo debe el patrón conceder las vacaciones una vez cumplido el año de servicios?",
+  "articulos_esperados": [
+   "LFT:81"
+  ],
+  "puntos_clave": [
+   "Deben concederse dentro de los seis meses siguientes al cumplimiento del año de servicios"
+  ],
+  "respuesta_referencia": "Dentro de los seis meses siguientes a que cumplas el año de servicios.",
+  "anclas": {
+   "LFT:81": "seis meses siguientes"
+  }
+ },
+ {
+  "id": "P07",
+  "categoria": "vacaciones",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Renuncié y no alcancé a tomar mis vacaciones, ¿me las tienen que pagar?",
+  "articulos_esperados": [
+   "LFT:79"
+  ],
+  "puntos_clave": [
+   "Si la relación termina antes de cumplir el año, se paga una remuneración proporcional al tiempo trabajado"
+  ],
+  "respuesta_referencia": "Sí, te deben pagar la parte proporcional de vacaciones según el tiempo trabajado.",
+  "anclas": {
+   "LFT:79": "proporcionada al tiempo de servicios"
+  }
+ },
+ {
+  "id": "P08",
+  "categoria": "aguinaldo",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Hasta cuándo me tienen que pagar el aguinaldo?",
+  "articulos_esperados": [
+   "LFT:87"
+  ],
+  "puntos_clave": [
+   "El aguinaldo debe pagarse antes del 20 de diciembre"
+  ],
+  "respuesta_referencia": "Antes del 20 de diciembre.",
+  "anclas": {
+   "LFT:87": "veinte de diciembre"
+  }
+ },
+ {
+  "id": "P09",
+  "categoria": "aguinaldo",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿De cuántos días de salario es el aguinaldo mínimo que establece la ley?",
+  "articulos_esperados": [
+   "LFT:87"
+  ],
+  "puntos_clave": [
+   "El aguinaldo equivale a por lo menos 15 días de salario"
+  ],
+  "respuesta_referencia": "Al menos 15 días de salario.",
+  "anclas": {
+   "LFT:87": "quince dias de salario"
+  }
+ },
+ {
+  "id": "P10",
+  "categoria": "aguinaldo",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Entré a trabajar en julio, ¿me dan aguinaldo completo?",
+  "articulos_esperados": [
+   "LFT:87"
+  ],
+  "puntos_clave": [
+   "Quien no ha cumplido el año tiene derecho a la parte proporcional del aguinaldo"
+  ],
+  "respuesta_referencia": "No completo: te corresponde la parte proporcional al tiempo trabajado.",
+  "anclas": {
+   "LFT:87": "parte proporcional"
+  }
+ },
+ {
+  "id": "P11",
+  "categoria": "aguinaldo",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Me corrieron en octubre, ¿ya perdí mi aguinaldo?",
+  "articulos_esperados": [
+   "LFT:87"
+  ],
+  "puntos_clave": [
+   "Tiene derecho a la parte proporcional aunque ya no esté laborando en la fecha de pago"
+  ],
+  "respuesta_referencia": "No lo pierdes: tienes derecho a la parte proporcional aunque ya no trabajes ahí en diciembre.",
+  "anclas": {
+   "LFT:87": "independientemente de que se encuentren laborando"
+  }
+ },
+ {
+  "id": "P12",
+  "categoria": "aguinaldo",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuánto ISR me descuentan del aguinaldo?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "El cálculo del ISR no está en la LFT ni en el artículo 123 (corresponde a la Ley del ISR)"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ },
+ {
+  "id": "P13",
+  "categoria": "jornada",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuántas horas al día es lo máximo que me pueden poner a trabajar en turno de día?",
+  "articulos_esperados": [
+   "LFT:61",
+   "CPEUM:123:A:I"
+  ],
+  "puntos_clave": [
+   "La jornada diurna máxima es de 8 horas"
+  ],
+  "respuesta_referencia": "La jornada diurna máxima es de ocho horas.",
+  "anclas": {
+   "LFT:61": "ocho horas"
+  }
+ },
+ {
+  "id": "P14",
+  "categoria": "horas_extra",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuánto me tienen que pagar por cada hora extra?",
+  "articulos_esperados": [
+   "LFT:67",
+   "CPEUM:123:A:XI"
+  ],
+  "puntos_clave": [
+   "Las horas extraordinarias se pagan con un 100% más del salario de la hora normal (pago doble)"
+  ],
+  "respuesta_referencia": "Con un 100% más de lo que vale tu hora normal, es decir, al doble.",
+  "anclas": {
+   "LFT:67": "ciento por ciento"
+  }
+ },
+ {
+  "id": "P15",
+  "categoria": "horas_extra",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Esta semana ya hice muchísimas horas extra, ¿me las pagan igual aunque me pase del límite?",
+  "articulos_esperados": [
+   "LFT:68"
+  ],
+  "puntos_clave": [
+   "El tiempo extraordinario que exceda el límite permitido se paga con 200% más del salario (triple)",
+   "El trabajador no está obligado a trabajar más del tiempo permitido"
+  ],
+  "respuesta_referencia": "No: lo que exceda el límite se paga con 200% más (triple), y no estás obligado a trabajarlo.",
+  "anclas": {
+   "LFT:68": "doscientos por ciento"
+  }
+ },
+ {
+  "id": "P16",
+  "categoria": "horas_extra",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Me pueden obligar a quedarme horas extra todos los días?",
+  "articulos_esperados": [
+   "LFT:66",
+   "LFT:68",
+   "CPEUM:123:A:XI"
+  ],
+  "puntos_clave": [
+   "La jornada extraordinaria tiene límites legales de horas y de veces",
+   "El trabajador no está obligado a prestar servicios por un tiempo mayor al permitido"
+  ],
+  "respuesta_referencia": "No sin límite: la ley fija un máximo de tiempo extraordinario y no estás obligado a trabajar más allá de él.",
+  "anclas": {
+   "LFT:68": "no estan obligados"
+  }
+ },
+ {
+  "id": "P17",
+  "categoria": "jornada",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿Qué horario comprende la jornada nocturna y cuál es su duración máxima?",
+  "articulos_esperados": [
+   "LFT:60",
+   "LFT:61"
+  ],
+  "puntos_clave": [
+   "La jornada nocturna es la comprendida entre las 20 y las 6 horas",
+   "Su duración máxima es de 7 horas"
+  ],
+  "respuesta_referencia": "Es la que va de las 20:00 a las 6:00 horas y dura como máximo siete horas.",
+  "anclas": {
+   "LFT:60": "veinte y las seis horas"
+  }
+ },
+ {
+  "id": "P18",
+  "categoria": "jornada",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Tengo derecho a un descanso para comer a la mitad de mi turno?",
+  "articulos_esperados": [
+   "LFT:63"
+  ],
+  "puntos_clave": [
+   "Durante la jornada continua se concede un descanso de media hora por lo menos"
+  ],
+  "respuesta_referencia": "Sí, en jornada continua tienes derecho a por lo menos media hora de descanso.",
+  "anclas": {
+   "LFT:63": "media hora"
+  }
+ },
+ {
+  "id": "P19",
+  "categoria": "jornada",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Con la reforma de las 40 horas, ¿cuántas horas a la semana es lo máximo que puedo trabajar este año?",
+  "articulos_esperados": [
+   "LFT:TRANS:2026",
+   "CPEUM:TRANS:2026",
+   "CPEUM:123:A"
+  ],
+  "puntos_clave": [
+   "La reducción a 40 horas es gradual y concluye en 2030",
+   "En 2026 el máximo sigue siendo de 48 horas semanales"
+  ],
+  "respuesta_referencia": "En 2026 el máximo sigue siendo 48 horas; la reducción es gradual hasta llegar a 40 horas en 2030.",
+  "notas": "Depende del calendario gradual en los transitorios de las reformas de 2026; validar contra el texto descargado."
+ },
+ {
+  "id": "P20",
+  "categoria": "descansos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Si me toca trabajar el 16 de septiembre, ¿me pagan doble?",
+  "articulos_esperados": [
+   "LFT:74",
+   "LFT:75"
+  ],
+  "puntos_clave": [
+   "El 16 de septiembre es día de descanso obligatorio",
+   "Si se trabaja, se paga salario doble además del salario que corresponde por el descanso"
+  ],
+  "respuesta_referencia": "Es día de descanso obligatorio; si trabajas, te deben pagar salario doble además de tu salario normal de ese día.",
+  "anclas": {
+   "LFT:74": "16 de septiembre",
+   "LFT:75": "salario doble"
+  }
+ },
+ {
+  "id": "P21",
+  "categoria": "descansos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuáles son los días festivos que me tienen que dar por ley?",
+  "articulos_esperados": [
+   "LFT:74"
+  ],
+  "puntos_clave": [
+   "1 de enero, primer lunes de febrero, tercer lunes de marzo, 1 de mayo, 16 de septiembre, tercer lunes de noviembre y 25 de diciembre son días de descanso obligatorio",
+   "También los que determinen las leyes electorales y la transmisión del Poder Ejecutivo"
+  ],
+  "respuesta_referencia": "Los días de descanso obligatorio del artículo 74 (1 de enero, primer lunes de febrero, tercer lunes de marzo, 1 de mayo, 16 de septiembre, tercer lunes de noviembre, 25 de diciembre, transmisión del Ejecutivo y jornadas electorales).",
+  "anclas": {
+   "LFT:74": "25 de diciembre"
+  }
+ },
+ {
+  "id": "P22",
+  "categoria": "descansos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Trabajo todos los domingos, ¿me deben pagar algo extra?",
+  "articulos_esperados": [
+   "LFT:71"
+  ],
+  "puntos_clave": [
+   "Quien trabaja en domingo tiene derecho a una prima adicional de por lo menos 25% sobre el salario de los días ordinarios"
+  ],
+  "respuesta_referencia": "Sí, una prima dominical de al menos 25% sobre tu salario ordinario.",
+  "anclas": {
+   "LFT:71": "veinticinco por ciento"
+  }
+ },
+ {
+  "id": "P23",
+  "categoria": "descansos",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿Cuántos días de descanso semanal establece la ley?",
+  "articulos_esperados": [
+   "LFT:69",
+   "CPEUM:123:A:IV"
+  ],
+  "puntos_clave": [
+   "Por cada seis días de trabajo se disfruta de por lo menos un día de descanso con goce de salario"
+  ],
+  "respuesta_referencia": "Por cada seis días de trabajo, al menos un día de descanso con salario íntegro.",
+  "anclas": {
+   "LFT:69": "seis dias de trabajo"
+  }
+ },
+ {
+  "id": "P24",
+  "categoria": "descansos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Me pidieron ir a trabajar en mi día de descanso, ¿cuánto me tienen que pagar?",
+  "articulos_esperados": [
+   "LFT:73"
+  ],
+  "puntos_clave": [
+   "No está obligado a trabajar en su día de descanso",
+   "Si trabaja, se le paga un salario doble además del salario que le corresponde por el descanso"
+  ],
+  "respuesta_referencia": "No estás obligado; si trabajas, te pagan salario doble además del salario de tu descanso.",
+  "anclas": {
+   "LFT:73": "salario doble"
+  }
+ },
+ {
+  "id": "P25",
+  "categoria": "incapacidades",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Me lastimé trabajando y me incapacitaron unas semanas, ¿me tienen que pagar mi sueldo?",
+  "articulos_esperados": [
+   "LFT:491",
+   "LFT:473",
+   "LFT:474"
+  ],
+  "puntos_clave": [
+   "Un accidente en ejercicio o con motivo del trabajo es riesgo de trabajo",
+   "En incapacidad temporal por riesgo de trabajo se paga íntegro el salario mientras dure la imposibilidad de trabajar"
+  ],
+  "respuesta_referencia": "Sí: si es riesgo de trabajo con incapacidad temporal, la indemnización es el pago íntegro de tu salario mientras no puedas trabajar.",
+  "anclas": {
+   "LFT:491": "pago integro del salario"
+  }
+ },
+ {
+  "id": "P26",
+  "categoria": "incapacidades",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Me caí en la calle cuando iba camino a la oficina, ¿eso cuenta como accidente de trabajo?",
+  "articulos_esperados": [
+   "LFT:474"
+  ],
+  "puntos_clave": [
+   "Se consideran accidentes de trabajo los que ocurren al trasladarse directamente del domicilio al lugar de trabajo y viceversa"
+  ],
+  "respuesta_referencia": "Sí, si ibas directamente de tu casa al trabajo, la ley lo considera accidente de trabajo.",
+  "anclas": {
+   "LFT:474": "domicilio"
+  }
+ },
+ {
+  "id": "P27",
+  "categoria": "incapacidades",
+  "tipo": "parcial",
+  "estilo": "coloquial",
+  "pregunta": "Me enfermé de gripa y el IMSS me dio incapacidad de 5 días, ¿me pueden correr por faltar y me pagan esos días?",
+  "articulos_esperados": [
+   "LFT:42:II",
+   "LFT:43"
+  ],
+  "puntos_clave": [
+   "La incapacidad temporal por enfermedad que no es riesgo de trabajo suspende la relación de trabajo sin responsabilidad (no es causa de despido)",
+   "Durante la suspensión no hay obligación de pagar salario; el pago de subsidios del IMSS no está en estos documentos"
+  ],
+  "respuesta_referencia": "No te pueden despedir por eso: la incapacidad suspende la relación de trabajo. Lo que te pague el IMSS no está regulado en estos documentos.",
+  "anclas": {
+   "LFT:42": "no constituya un riesgo de trabajo"
+  }
+ },
+ {
+  "id": "P28",
+  "categoria": "incapacidades",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Qué porcentaje de mi sueldo me paga el IMSS cuando tengo incapacidad por enfermedad general?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "El subsidio por enfermedad general está en la Ley del Seguro Social, no en la LFT ni en el artículo 123"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ },
+ {
+  "id": "P29",
+  "categoria": "incapacidades",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿Qué derechos tiene un trabajador que sufre un riesgo de trabajo?",
+  "articulos_esperados": [
+   "LFT:487"
+  ],
+  "puntos_clave": [
+   "Asistencia médica y quirúrgica, rehabilitación, hospitalización, medicamentos y material de curación, aparatos de prótesis y ortopedia, e indemnización"
+  ],
+  "respuesta_referencia": "Asistencia médica y quirúrgica, rehabilitación, hospitalización, medicamentos, prótesis y la indemnización correspondiente.",
+  "anclas": {
+   "LFT:487": "rehabilitacion"
+  }
+ },
+ {
+  "id": "P30",
+  "categoria": "incapacidades",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Si por un accidente en el trabajo quedo incapacitado de por vida para trabajar, ¿de cuánto es la indemnización?",
+  "articulos_esperados": [
+   "LFT:495",
+   "LFT:480"
+  ],
+  "puntos_clave": [
+   "La incapacidad permanente total da derecho a una indemnización de 1,095 días de salario"
+  ],
+  "respuesta_referencia": "Para incapacidad permanente total, 1,095 días de salario.",
+  "anclas": {
+   "LFT:495": "mil noventa y cinco"
+  }
+ },
+ {
+  "id": "P31",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Me pueden correr por estar embarazada?",
+  "articulos_esperados": [
+   "LFT:133:XV",
+   "LFT:170",
+   "CPEUM:123:A:V"
+  ],
+  "puntos_clave": [
+   "Está prohibido al patrón despedir a una trabajadora o coaccionarla para que renuncie por estar embarazada"
+  ],
+  "respuesta_referencia": "No. La ley prohíbe despedirte o presionarte para renunciar por estar embarazada.",
+  "anclas": {
+   "LFT:133": "por estar embarazada"
+  }
+ },
+ {
+  "id": "P32",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Me despidieron de palabra y nunca me dieron nada por escrito, ¿es válido?",
+  "articulos_esperados": [
+   "LFT:47"
+  ],
+  "puntos_clave": [
+   "El patrón debe dar aviso escrito con la causa del despido",
+   "La falta de aviso por sí sola presume que la separación no fue justificada"
+  ],
+  "respuesta_referencia": "El patrón debe darte aviso por escrito con la causa; si no lo hace, se presume que el despido fue injustificado.",
+  "anclas": {
+   "LFT:47": "aviso escrito"
+  }
+ },
+ {
+  "id": "P33",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Si me corren sin justificación, ¿qué puedo exigir?",
+  "articulos_esperados": [
+   "LFT:48",
+   "CPEUM:123:A:XXII"
+  ],
+  "puntos_clave": [
+   "Puede elegir la reinstalación en su trabajo o una indemnización de tres meses de salario",
+   "Además, salarios vencidos hasta por doce meses"
+  ],
+  "respuesta_referencia": "Puedes pedir que te reinstalen o una indemnización de tres meses de salario, además de salarios vencidos (hasta 12 meses).",
+  "anclas": {
+   "LFT:48": "tres meses de salario"
+  }
+ },
+ {
+  "id": "P34",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuánto tiempo tengo para demandar a mi empresa si me despidieron?",
+  "articulos_esperados": [
+   "LFT:518"
+  ],
+  "puntos_clave": [
+   "Las acciones de los despedidos prescriben en dos meses a partir del día siguiente a la separación"
+  ],
+  "respuesta_referencia": "Dos meses, contados a partir del día siguiente al despido.",
+  "anclas": {
+   "LFT:518": "dos meses"
+  }
+ },
+ {
+  "id": "P35",
+  "categoria": "despidos",
+  "tipo": "parcial",
+  "estilo": "coloquial",
+  "pregunta": "¿Me pueden despedir por llegar tarde varias veces?",
+  "articulos_esperados": [
+   "LFT:47"
+  ],
+  "puntos_clave": [
+   "La ley enumera las causas de rescisión sin responsabilidad para el patrón; los retardos no aparecen expresamente",
+   "Sí es causa tener más de tres faltas de asistencia en 30 días sin permiso o causa justificada",
+   "Dependerá de los hechos y de causas análogas"
+  ],
+  "respuesta_referencia": "Los retardos no aparecen expresamente como causa de despido en la ley; sí lo son más de tres faltas en 30 días sin permiso. Depende del caso.",
+  "anclas": {
+   "LFT:47": "mas de tres faltas"
+  }
+ },
+ {
+  "id": "P36",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Falté 3 días este mes sin avisar, ¿ya me pueden correr?",
+  "articulos_esperados": [
+   "LFT:47:X"
+  ],
+  "puntos_clave": [
+   "La causa de rescisión es tener MÁS de tres faltas en un periodo de 30 días sin permiso o causa justificada; tres faltas no alcanzan"
+  ],
+  "respuesta_referencia": "La causa legal es tener más de tres faltas en 30 días sin permiso ni causa justificada; con tres, todavía no se cumple.",
+  "anclas": {
+   "LFT:47": "treinta dias"
+  }
+ },
+ {
+  "id": "P37",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿Qué es la prima de antigüedad y en qué casos se paga?",
+  "articulos_esperados": [
+   "LFT:162"
+  ],
+  "puntos_clave": [
+   "Es de 12 días de salario por cada año de servicios",
+   "Se paga a quienes se separan voluntariamente con al menos 15 años, a quienes se separan por causa justificada y a quienes son separados, con o sin justificación"
+  ],
+  "respuesta_referencia": "Son 12 días de salario por año de servicio; se paga al separarse por despido (justificado o no), por causa justificada, o por renuncia con al menos 15 años.",
+  "anclas": {
+   "LFT:162": "doce dias de salario"
+  }
+ },
+ {
+  "id": "P38",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Tengo 8 años en la empresa y voy a renunciar, ¿me toca prima de antigüedad?",
+  "articulos_esperados": [
+   "LFT:162:III"
+  ],
+  "puntos_clave": [
+   "En la separación voluntaria la prima de antigüedad se paga solo si se tienen por lo menos 15 años de servicios; con 8 años no corresponde"
+  ],
+  "respuesta_referencia": "No: si renuncias, la prima de antigüedad solo se paga con al menos 15 años de servicio.",
+  "anclas": {
+   "LFT:162": "quince anos"
+  }
+ },
+ {
+  "id": "P39",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Si renuncio, ¿qué me tienen que dar en mi finiquito?",
+  "articulos_esperados": [
+   "LFT:87",
+   "LFT:79",
+   "LFT:80"
+  ],
+  "puntos_clave": [
+   "Parte proporcional del aguinaldo",
+   "Parte proporcional de vacaciones (y prima vacacional)"
+  ],
+  "respuesta_referencia": "Al menos la parte proporcional del aguinaldo y de las vacaciones con su prima vacacional, además de lo que se te deba de salario.",
+  "anclas": {
+   "LFT:87": "parte proporcional"
+  }
+ },
+ {
+  "id": "P40",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Mi jefe me grita y me humilla frente a todos, ¿puedo irme y que me paguen indemnización?",
+  "articulos_esperados": [
+   "LFT:51:II",
+   "LFT:52",
+   "LFT:50"
+  ],
+  "puntos_clave": [
+   "El trabajador puede rescindir la relación sin responsabilidad por malos tratamientos, injurias u hostigamiento del patrón o sus representantes",
+   "Tiene derecho a ser indemnizado en los términos del artículo 50",
+   "Tiene un mes para hacerlo"
+  ],
+  "respuesta_referencia": "Sí: puedes terminar la relación sin responsabilidad por malos tratos u hostigamiento y tienes derecho a indemnización (art. 50); tienes un mes para hacerlo.",
+  "anclas": {
+   "LFT:51": "malos tratamientos"
+  }
+ },
+ {
+  "id": "P41",
+  "categoria": "despidos",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Estoy en periodo de prueba, ¿me pueden correr sin pagarme nada?",
+  "articulos_esperados": [
+   "LFT:39-A"
+  ],
+  "puntos_clave": [
+   "El periodo de prueba no puede exceder de 30 días (180 para puestos de dirección o especializados)",
+   "Si al término no acredita los requisitos, la relación termina sin responsabilidad para el patrón",
+   "Durante la prueba se recibe salario y prestaciones"
+  ],
+  "respuesta_referencia": "Si al final del periodo (máximo 30 días) no acreditas los requisitos, puede terminar sin responsabilidad para el patrón; durante la prueba sí te deben pagar.",
+  "anclas": {
+   "LFT:39-A": "treinta dias"
+  }
+ },
+ {
+  "id": "P42",
+  "categoria": "despidos",
+  "tipo": "parcial",
+  "estilo": "coloquial",
+  "pregunta": "Al entrar me hicieron firmar una renuncia sin fecha, ¿eso es válido?",
+  "articulos_esperados": [
+   "LFT:33"
+  ],
+  "puntos_clave": [
+   "Es nula la renuncia que hagan los trabajadores a sus derechos",
+   "Todo convenio o liquidación debe ser por escrito, con relación circunstanciada de hechos, y ratificado"
+  ],
+  "respuesta_referencia": "La ley declara nula la renuncia a tus derechos y exige que los convenios de terminación sean por escrito y ratificados; la ley no habla expresamente de renuncias sin fecha.",
+  "anclas": {
+   "LFT:33": "nula"
+  }
+ },
+ {
+  "id": "P43",
+  "categoria": "salario",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cada cuánto me tienen que pagar mi sueldo?",
+  "articulos_esperados": [
+   "LFT:88"
+  ],
+  "puntos_clave": [
+   "El plazo no puede ser mayor de una semana para quien desempeña trabajo material y de quince días para los demás"
+  ],
+  "respuesta_referencia": "Cada semana como máximo si tu trabajo es material; cada quince días como máximo en los demás casos.",
+  "anclas": {
+   "LFT:88": "quince dias"
+  }
+ },
+ {
+  "id": "P44",
+  "categoria": "salario",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Rompí sin querer un equipo de la empresa, ¿me lo pueden descontar de mi sueldo?",
+  "articulos_esperados": [
+   "LFT:110:I"
+  ],
+  "puntos_clave": [
+   "Los descuentos al salario están prohibidos salvo los casos de la ley",
+   "Se permite descontar deudas con el patrón por pérdidas o averías, sin exceder el 30% del excedente del salario mínimo"
+  ],
+  "respuesta_referencia": "Solo en los casos que permite la ley: las deudas por pérdidas o averías pueden descontarse, pero sin exceder el 30% del excedente del salario mínimo.",
+  "anclas": {
+   "LFT:110": "averias"
+  }
+ },
+ {
+  "id": "P45",
+  "categoria": "salario",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Mi compañero hace exactamente lo mismo que yo y gana más porque es hombre, ¿es legal?",
+  "articulos_esperados": [
+   "LFT:86",
+   "CPEUM:123:A:VII"
+  ],
+  "puntos_clave": [
+   "A trabajo igual, desempeñado en puesto, jornada y condiciones iguales, corresponde salario igual",
+   "No se puede distinguir por sexo"
+  ],
+  "respuesta_referencia": "No: a trabajo igual corresponde salario igual, sin distinción de sexo.",
+  "anclas": {
+   "LFT:86": "salario igual"
+  }
+ },
+ {
+  "id": "P46",
+  "categoria": "salario",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuánto es el salario mínimo este año?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "El monto vigente lo fija la Comisión Nacional de los Salarios Mínimos; no está en la LFT ni en el artículo 123"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ },
+ {
+  "id": "P47",
+  "categoria": "salario",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Me pueden pagar todo el sueldo en vales de despensa en vez de dinero?",
+  "articulos_esperados": [
+   "LFT:101",
+   "CPEUM:123:A:X"
+  ],
+  "puntos_clave": [
+   "El salario en efectivo debe pagarse en moneda de curso legal",
+   "No se permite pagarlo en mercancías, vales, fichas u otro sustituto de la moneda"
+  ],
+  "respuesta_referencia": "No. El salario debe pagarse en moneda de curso legal, no en vales ni mercancías.",
+  "anclas": {
+   "LFT:101": "moneda de curso legal"
+  }
+ },
+ {
+  "id": "P48",
+  "categoria": "ptu",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuándo me tienen que pagar las utilidades?",
+  "articulos_esperados": [
+   "LFT:122"
+  ],
+  "puntos_clave": [
+   "El reparto debe hacerse dentro de los 60 días siguientes a la fecha en que deba pagarse el impuesto anual"
+  ],
+  "respuesta_referencia": "Dentro de los 60 días siguientes a la fecha en que la empresa deba pagar su impuesto anual.",
+  "anclas": {
+   "LFT:122": "sesenta dias"
+  }
+ },
+ {
+  "id": "P49",
+  "categoria": "ptu",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Soy eventual, ¿también me toca reparto de utilidades?",
+  "articulos_esperados": [
+   "LFT:127:VII"
+  ],
+  "puntos_clave": [
+   "Los trabajadores eventuales participan si trabajaron por lo menos 60 días durante el año"
+  ],
+  "respuesta_referencia": "Sí, si trabajaste al menos 60 días durante el año.",
+  "anclas": {
+   "LFT:127": "eventuales"
+  }
+ },
+ {
+  "id": "P50",
+  "categoria": "ptu",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿Existe un límite máximo al monto de la participación de utilidades que recibe cada trabajador?",
+  "articulos_esperados": [
+   "LFT:127:VIII"
+  ],
+  "puntos_clave": [
+   "Tiene un tope de tres meses de salario o el promedio de la participación recibida en los últimos tres años, lo que sea más favorable"
+  ],
+  "respuesta_referencia": "Sí: tres meses de salario o el promedio de lo recibido en los últimos tres años, lo que te favorezca más.",
+  "anclas": {
+   "LFT:127": "tres meses"
+  }
+ },
+ {
+  "id": "P51",
+  "categoria": "maternidad",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Voy a tener un bebé, ¿cuántas semanas de incapacidad por maternidad me tocan?",
+  "articulos_esperados": [
+   "LFT:170:II",
+   "CPEUM:123:A:V"
+  ],
+  "puntos_clave": [
+   "Seis semanas de descanso antes y seis después del parto",
+   "Con autorización médica se pueden transferir hasta cuatro semanas de antes para después del parto"
+  ],
+  "respuesta_referencia": "Seis semanas antes y seis después del parto; puedes pasar hasta cuatro de las previas a después del parto con autorización médica.",
+  "anclas": {
+   "LFT:170": "seis semanas"
+  }
+ },
+ {
+  "id": "P52",
+  "categoria": "maternidad",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Acaba de nacer mi hija, ¿cuántos días de permiso tengo como papá?",
+  "articulos_esperados": [
+   "LFT:132:XXVII Bis"
+  ],
+  "puntos_clave": [
+   "Permiso de paternidad de cinco días laborables con goce de sueldo"
+  ],
+  "respuesta_referencia": "Cinco días laborables con goce de sueldo.",
+  "anclas": {
+   "LFT:132": "paternidad"
+  }
+ },
+ {
+  "id": "P53",
+  "categoria": "maternidad",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Regresé de la incapacidad de maternidad, ¿tengo derecho a tiempo para amamantar?",
+  "articulos_esperados": [
+   "LFT:170:IV"
+  ],
+  "puntos_clave": [
+   "En el periodo de lactancia, hasta por seis meses, dos reposos extraordinarios de media hora por día o reducción de una hora de la jornada"
+  ],
+  "respuesta_referencia": "Sí: hasta seis meses, dos descansos de media hora al día o reducir una hora tu jornada.",
+  "anclas": {
+   "LFT:170": "lactancia"
+  }
+ },
+ {
+  "id": "P54",
+  "categoria": "contrato",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Nunca firmé contrato, ¿entonces no tengo derechos?",
+  "articulos_esperados": [
+   "LFT:26"
+  ],
+  "puntos_clave": [
+   "La falta de contrato escrito no priva al trabajador de sus derechos",
+   "La falta de esa formalidad se imputa al patrón"
+  ],
+  "respuesta_referencia": "Sí tienes derechos: la falta de contrato escrito es responsabilidad del patrón y no te quita derechos.",
+  "anclas": {
+   "LFT:26": "no priva al trabajador"
+  }
+ },
+ {
+  "id": "P55",
+  "categoria": "teletrabajo",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Trabajo desde casa, ¿la empresa me tiene que pagar el internet y la luz?",
+  "articulos_esperados": [
+   "LFT:330-E"
+  ],
+  "puntos_clave": [
+   "El patrón debe asumir los costos del teletrabajo, incluyendo telecomunicaciones y la parte proporcional de electricidad",
+   "Debe proporcionar el equipo necesario"
+  ],
+  "respuesta_referencia": "Sí: el patrón debe asumir los costos del teletrabajo, incluidos los servicios de telecomunicación y la parte proporcional de la electricidad.",
+  "anclas": {
+   "LFT:330-E": "electricidad"
+  }
+ },
+ {
+  "id": "P56",
+  "categoria": "contrato",
+  "tipo": "respondible",
+  "estilo": "coloquial",
+  "pregunta": "Me contrataron por medio de una agencia de outsourcing para trabajar en otra empresa, ¿es legal?",
+  "articulos_esperados": [
+   "LFT:12",
+   "LFT:13"
+  ],
+  "puntos_clave": [
+   "Está prohibida la subcontratación de personal",
+   "Solo se permite la subcontratación de servicios especializados u obras especializadas que no formen parte del objeto social ni la actividad preponderante del beneficiario, con registro"
+  ],
+  "respuesta_referencia": "La subcontratación de personal está prohibida; solo se permiten servicios u obras especializadas, registradas, que no sean la actividad principal de la empresa que recibe el servicio.",
+  "anclas": {
+   "LFT:12": "subcontratacion de personal"
+  }
+ },
+ {
+  "id": "P57",
+  "categoria": "contrato",
+  "tipo": "respondible",
+  "estilo": "formal",
+  "pregunta": "¿A partir de qué edad está permitido trabajar en México?",
+  "articulos_esperados": [
+   "LFT:22",
+   "CPEUM:123:A:III"
+  ],
+  "puntos_clave": [
+   "Está prohibido el trabajo de menores de quince años",
+   "Los mayores de 15 y menores de 18 pueden trabajar con restricciones"
+  ],
+  "respuesta_referencia": "A partir de los 15 años, con restricciones hasta los 18; el trabajo de menores de 15 está prohibido.",
+  "anclas": {
+   "LFT:22": "quince anos"
+  }
+ },
+ {
+  "id": "P58",
+  "categoria": "fuera_de_alcance",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuánto vale la UMA en 2026?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "El valor de la UMA lo publica el INEGI; no está en estos documentos"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ },
+ {
+  "id": "P59",
+  "categoria": "fuera_de_alcance",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cómo retiro mi dinero de la Afore si me quedo sin trabajo?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "Los retiros de la Afore se rigen por la Ley del Seguro Social y la Ley del SAR; no están en estos documentos"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ },
+ {
+  "id": "P60",
+  "categoria": "fuera_de_alcance",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "Falleció mi papá, ¿cuántos días de permiso por luto me corresponden por ley?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "La LFT no establece un permiso por fallecimiento de un familiar"
+  ],
+  "respuesta_referencia": "La LFT y el artículo 123 no establecen un permiso por luto.",
+  "notas": "Trampa: el modelo tiende a 'recordar' prestaciones de contratos colectivos o de otras leyes."
+ },
+ {
+  "id": "P61",
+  "categoria": "fuera_de_alcance",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Con cuántos puntos puedo sacar un crédito Infonavit?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "Los requisitos de crédito se rigen por la Ley del INFONAVIT y sus reglas; no están en estos documentos"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ },
+ {
+  "id": "P62",
+  "categoria": "fuera_de_alcance",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuál es la política de home office de mi empresa?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "Las políticas internas de la empresa no están en la ley"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ },
+ {
+  "id": "P63",
+  "categoria": "fuera_de_alcance",
+  "tipo": "no_respondible",
+  "estilo": "coloquial",
+  "pregunta": "¿Cuántos días de vacaciones dan por ley en Estados Unidos?",
+  "articulos_esperados": [],
+  "puntos_clave": [
+   "La legislación de otros países no está en estos documentos"
+  ],
+  "respuesta_referencia": "No está en estos documentos."
+ }
+]
